@@ -1,0 +1,10 @@
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\bin\Debug\Set_ElJur.exe.config
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\bin\Debug\Set_ElJur.exe
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\bin\Debug\Set_ElJur.pdb
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\bin\Debug\ArgeCode.dll
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\bin\Debug\ArgeCode.pdb
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\obj\Debug\Set_ElJur.csproj.AssemblyReference.cache
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\obj\Debug\Set_ElJur.csproj.CoreCompileInputs.cache
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\obj\Debug\Set_ElJur.csproj.Up2Date
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\obj\Debug\Set_ElJur.exe
+C:\Users\SibNout2023\Downloads\KipFin_Lab_2023-24_Git0\Set_ElJur\Set_ElJur\obj\Debug\Set_ElJur.pdb

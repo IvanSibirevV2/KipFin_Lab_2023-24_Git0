@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SibNout2023\\Downloads\\KipFin_Lab_2023-24_Git0\\Set_ElJur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52982ED-1BB2-4F6A-9BC4-9785B59BF150}|Set_ElJur\\Set_ElJur.csproj|c:\\users\\sibnout2023\\downloads\\kipfin_lab_2023-24_git0\\set_eljur\\set_eljur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52982ED-1BB2-4F6A-9BC4-9785B59BF150}|Set_ElJur\\Set_ElJur.csproj|solutionrelative:set_eljur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B87C7-8AAE-4149-9B5D-81F79F0036DE}|..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\ArgeCode.csproj|c:\\d\\github\\githuboll\\argecode\\argecodexe\\argecode\\12_cmdoor\\ext_byte.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B87C7-8AAE-4149-9B5D-81F79F0036DE}|..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\ArgeCode.csproj|c:\\d\\github\\githuboll\\argecode\\argecodexe\\argecode\\12_cmdoor\\ext_nircmdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B87C7-8AAE-4149-9B5D-81F79F0036DE}|..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\ArgeCode.csproj|c:\\d\\github\\githuboll\\argecode\\argecodexe\\argecode\\12_cmdoor\\ext_datetime_nownew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ext_Byte.tt",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_Byte.tt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_Byte.tt",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_Byte.tt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_Byte.tt",
+              "ViewState": "AQIAAB4AAAAAAAAAAADgvygAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-06T10:11:53.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ext_NirCMDoor.cs",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_NirCMDoor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_NirCMDoor.cs",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_NirCMDoor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_NirCMDoor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:47.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ext_DateTime_NowNew.cs",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_DateTime_NowNew.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_DateTime_NowNew.cs",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_DateTime_NowNew.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\D\\GitHub\\GitHubOll\\ArgeCode\\ArgeCodEXE\\ArgeCode\\12_CMDoor\\Ext_DateTime_NowNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:46.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SibNout2023\\Downloads\\KipFin_Lab_2023-24_Git0\\Set_ElJur\\Set_ElJur\\Program.cs",
+              "RelativeDocumentMoniker": "Set_ElJur\\Program.cs",
+              "ToolTip": "C:\\Users\\SibNout2023\\Downloads\\KipFin_Lab_2023-24_Git0\\Set_ElJur\\Set_ElJur\\Program.cs",
+              "RelativeToolTip": "Set_ElJur\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:51:05.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

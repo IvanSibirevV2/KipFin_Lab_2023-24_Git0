@@ -125,7 +125,7 @@ set _'=0xDE
 ::Свой код писать сюда
 set _wait=25
 for /L %%i in (1,1,10) do (
-::ФокусЭксель
+::ФокусЭксель 
 nircmd sendkeypress %_WIN%+%_B%
 nircmd sendkeypress %_TAB%
 nircmd sendkeypress %_TAB%
